@@ -8,7 +8,6 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-<<<<<<< HEAD
 	<groupId>com.capg.pbms</groupId>
 	<artifactId>pbms-account-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -71,8 +70,6 @@
 	</build>
 
 </project>
-=======
-<<<<<<< HEAD
 	<groupId>com.capg.pbms</groupId>
 	<artifactId>pbms-account-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -127,7 +124,6 @@
 	</build>
 
 </project>
-=======
 	<groupId>com.capg</groupId>
 	<artifactId>spring-boot-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -192,5 +188,4 @@
 	</build>
 
 </project>
->>>>>>> branch 'master' of https://github.com/AbhishekReddy7299/capg-bvrit-b1-pecunia-bank-management-system.git
->>>>>>> branch 'master' of https://github.com/Akhila3110/bvrit-capg.git
+
